@@ -1,3 +1,5 @@
+## ASSESSMENT TEST ANSWER
+
 1. Apa saja yang harus dilakukan untuk mengatasi conflict code di github?
 
 - memastikan repository local kita sudah sinkron dengan repository source
